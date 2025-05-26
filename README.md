@@ -1,2 +1,0 @@
-# algo.rythm
-marketing
